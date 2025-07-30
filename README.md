@@ -30,6 +30,11 @@
  - Goals for next session: create loop and basic voice actions
  - iCloud Link: https://www.icloud.com/shortcuts/6c00aef43d30441b80eed1e2428ecdd5
 
+### 2025-07-30: Basic logic implemented
+
+ - Goals for next session: Fix logic with starttime, determine and fix corner cases with longer test
+ - iCloud Link: https://www.icloud.com/shortcuts/9573bbcd383241d0a774e8f9e07f809d
+
 ## Contributers
 
  - Dimple Thomas
