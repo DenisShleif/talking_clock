@@ -39,8 +39,15 @@
 
  - Future features: Dynamic implementation of voice
  - Test EndTime and Duration
- - Goals for next session: Test on another iPhone
+ - Goals for weekend: Test application, attempt to find issues (raise in Issues list below)
+ - Goal for Monday: prioritize and solve issues in list. Review README and backlog refine future features.
  - iCloud Link: https://www.icloud.com/shortcuts/5b7e5c122da243698aad5314d37c29e6
+
+## Issues list
+
+| Issue Finder | Issue Description |
+| ------------ | ----------------- |
+|              |                   |
 
 ## Contributers
 
