@@ -35,6 +35,13 @@
  - Goals for next session: Fix logic with starttime, determine and fix corner cases with longer test
  - iCloud Link: https://www.icloud.com/shortcuts/9573bbcd383241d0a774e8f9e07f809d
 
+### 2025-07-31: More updates
+
+ - Future features: Dynamic implementation of voice
+ - Test EndTime and Duration
+ - Goals for next session: Test on another iPhone
+ - iCloud Link: https://www.icloud.com/shortcuts/5b7e5c122da243698aad5314d37c29e6
+
 ## Contributers
 
  - Dimple Thomas
