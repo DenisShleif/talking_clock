@@ -45,9 +45,15 @@
 
 ## Issues list
 
-| Issue Finder | Issue Description |
-| ------------ | ----------------- |
-|              |                   |
+| Issue ID     |  Issue Finder   | Issue Description                        |  Issue Screenshot Link   |  Severity |
+| ------------ | -----------------------------------------------------------|
+|  #1           |  Dimple         |  Trigger 15min before sunrise did not trigger talking clock     | https://discordapp.com/channels/@me/1399589732459085906/1400791707745915023 | 2
+|  #2          |  Dimple               |  shows calculator icon instead of clock                 | https://discordapp.com/channels/@me/1399589732459085906/1400792379312570529 | 3
+|  #3 | Dimple | better to play first trigger time loud (ie starttime) so user knows initial state is correct and bot is triggered  | https://discordapp.com/channels/@me/1399589732459085906/1400795265094520845 | 1 //probably a feature request
+|  #4 | Dimple | talking clock does not speak when apps are running in foreground (like youtube)
+ | https://discordapp.com/channels/@me/1399589732459085906/1400808533691469836 | 2 //probably a feature request
+|  #5 | Dimple | ability to stop talking clock if user want to end prematurely | 2 //probably a feature request 
+
 
 ## Contributers
 
