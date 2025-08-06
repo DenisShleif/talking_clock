@@ -43,16 +43,20 @@
  - Goal for Monday: prioritize and solve issues in list. Review README and backlog refine future features.
  - iCloud Link: https://www.icloud.com/shortcuts/5b7e5c122da243698aad5314d37c29e6
 
+### 2025-08-05
+
+- Fixed issues 2 and 3
+- Goal for 2025-08-05: Ability to stop clock using siri commandx
+
 ## Issues list
 
-| Issue ID     |  Issue Finder   | Issue Description                        |  Issue Screenshot Link   |  Severity |
-| ------------ | -----------------------------------------------------------|
-|  #1           |  Dimple         |  Trigger 15min before sunrise did not trigger talking clock     | https://discordapp.com/channels/@me/1399589732459085906/1400791707745915023 | 2
-|  #2          |  Dimple               |  shows calculator icon instead of clock                 | https://discordapp.com/channels/@me/1399589732459085906/1400792379312570529 | 3
-|  #3 | Dimple | better to play first trigger time loud (ie starttime) so user knows initial state is correct and bot is triggered  | https://discordapp.com/channels/@me/1399589732459085906/1400795265094520845 | 1 //probably a feature request
-|  #4 | Dimple | talking clock does not speak when apps are running in foreground (like youtube)
- | https://discordapp.com/channels/@me/1399589732459085906/1400808533691469836 | 2 //probably a feature request
-|  #5 | Dimple | ability to stop talking clock if user want to end prematurely | 2 //probably a feature request 
+| Issue ID     | Issue Raised | Issue Finder   | Issue Description |  Issue Screenshot Link   |  Severity | Status |
+| ------------ | ----------------| ------------------|------------------------|----------|---------| ---- |
+|  #1           |  2025-08-01 | Dimple         |  Trigger 15min before sunrise did not trigger talking clock     | [link](https://discordapp.com/channels/@me/1399589732459085906/1400791707745915023) | 2  |  Monitor Issue  |
+|  #2          | 2025-08-01 | Dimple               |  shows calculator icon instead of clock                 | [link](https://discordapp.com/channels/@me/1399589732459085906/1400792379312570529) | 3 | Closed |
+|  #3 |2025-08-01 | Dimple | better to play first trigger time loud (ie starttime) so user knows initial state is correct and bot is triggered  | [link](https://discordapp.com/channels/@me/1399589732459085906/1400795265094520845) | 1 | Closed |
+|  #4 | 2025-08-01 | Dimple | talking clock does not speak when apps are running in foreground (like youtube) |[link](https://discordapp.com/channels/@me/1399589732459085906/1400808533691469836)|  3 | Feature to add | Open
+|  #5 | 2025-08-01 | Dimple | ability to stop talking clock if user want to end prematurely || 2 | Feature to add |
 
 
 ## Contributers
