@@ -46,7 +46,13 @@
 ### 2025-08-05
 
 - Fixed issues 2 and 3
-- Goal for 2025-08-05: Ability to stop clock using siri commandx
+- Goal for 2025-08-05: Ability to stop clock using siri commands
+- Talking Clock: https://www.icloud.com/shortcuts/96b649b676f24f66a7172a8ed40e658d
+- Stop Talking Clock: https://www.icloud.com/shortcuts/222defcabb594b54a912f25b8aebf5e6
+
+### 2025-08-06
+
+- Added feature to be able to stop clock using siri (closed Issue #5)
 
 ## Issues list
 
@@ -56,7 +62,7 @@
 |  #2          | 2025-08-01 | Dimple               |  shows calculator icon instead of clock                 | [link](https://discordapp.com/channels/@me/1399589732459085906/1400792379312570529) | 3 | Closed |
 |  #3 |2025-08-01 | Dimple | better to play first trigger time loud (ie starttime) so user knows initial state is correct and bot is triggered  | [link](https://discordapp.com/channels/@me/1399589732459085906/1400795265094520845) | 1 | Closed |
 |  #4 | 2025-08-01 | Dimple | talking clock does not speak when apps are running in foreground (like youtube) |[link](https://discordapp.com/channels/@me/1399589732459085906/1400808533691469836)|  3 | Feature to add | Open
-|  #5 | 2025-08-01 | Dimple | ability to stop talking clock if user want to end prematurely || 2 | Feature to add |
+|  #5 | 2025-08-01 | Dimple | ability to stop talking clock if user want to end prematurely || 2 | Closed |
 
 
 ## Contributers
